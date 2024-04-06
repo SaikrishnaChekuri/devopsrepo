@@ -7,6 +7,7 @@
 	<h1 style="color: red; font-size: 40px;" align="center">THIS IS THE SECOND VERSION OF OUR APP</h1>
         <h1 style="color: red; font-size: 40px;" align="center">THIS IS THE CI/CD PIEPELINE</h1>
         <h1 style="color: red; font-size: 40px;" align="center">THIS IS THE JENKINS PIPELINE</h1>
+        <h1 style="color: red; font-size: 40px;" align="center">THIS IS THE NEXUS SERVER</h1>
 	
 	
 	
